@@ -1,0 +1,8 @@
+aside.main-sidebar{
+  height: 100%;
+  position: fixed;
+}
+header.main-header{
+  width: 100%;
+  position: fixed;
+}

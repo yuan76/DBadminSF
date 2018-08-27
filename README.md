@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Introduction
 ============
 
@@ -121,3 +122,6 @@ Donations
 Donations are **greatly appreciated!**
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
+=======
+# DBadminSF
+>>>>>>> 9331551536b86c191424c8c4ae482dd550711960
